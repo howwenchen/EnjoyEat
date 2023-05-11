@@ -7,9 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\內用點餐\" />
-    <Folder Include="Areas\後台\登入\" />
-    <Folder Include="Areas\後台\員工管理\" />
+    <Folder Include="Areas\Backend\EmployeeLogin\Views\" />
+    <Folder Include="Areas\Backend\EmployeeLogin\Controllers\" />
+    <Folder Include="Areas\Backend\EmployeeLogin\Data\" />
+    <Folder Include="Areas\Backend\EmployeeLogin\Models\" />
+    <Folder Include="Areas\Backend\EmployeeManagement\Controllers\" />
+    <Folder Include="Areas\Backend\EmployeeManagement\Data\" />
+    <Folder Include="Areas\Backend\EmployeeManagement\Models\" />
+    <Folder Include="Areas\Backend\EmployeeManagement\Views\" />
+    <Folder Include="Areas\OrderForHere\Controllers\" />
+    <Folder Include="Areas\OrderForHere\Data\" />
+    <Folder Include="Areas\OrderForHere\Models\" />
+    <Folder Include="Areas\OrderForHere\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
   </ItemGroup>
 
 </Project>
