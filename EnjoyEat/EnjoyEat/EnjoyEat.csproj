@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\後台\登入\" />
+    <Folder Include="Areas\後台\員工管理\" />
+  </ItemGroup>
+
 </Project>
