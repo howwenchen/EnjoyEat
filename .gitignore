@@ -9,6 +9,7 @@
 *.dll.config
 *.cache
 *.suo
+.vs/
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
@@ -73,3 +74,11 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/12eb083f-193e-4ee4-8670-df7cf9e4351e.vsidx
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/351941f6-6e69-4dc7-a0ff-bcbeeee587c8.vsidx
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/6b417b7e-052c-4655-b8dd-66cf97a0ee49.vsidx
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/be203aad-f72b-45f4-963d-b44d7190135a.vsidx
+EnjoyEat/.vs/EnjoyEat/DesignTimeBuild/.dtbcache.v2
+EnjoyEat/.vs/ProjectEvaluation/enjoyeat.metadata.v6.1
+EnjoyEat/.vs/ProjectEvaluation/enjoyeat.projects.v6.1
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/read.lock
