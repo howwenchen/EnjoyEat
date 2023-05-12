@@ -7,18 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Backend\EmployeeLogin\Views\" />
-    <Folder Include="Areas\Backend\EmployeeLogin\Controllers\" />
     <Folder Include="Areas\Backend\EmployeeLogin\Data\" />
     <Folder Include="Areas\Backend\EmployeeLogin\Models\" />
     <Folder Include="Areas\Backend\EmployeeManagement\Controllers\" />
     <Folder Include="Areas\Backend\EmployeeManagement\Data\" />
     <Folder Include="Areas\Backend\EmployeeManagement\Models\" />
-    <Folder Include="Areas\Backend\EmployeeManagement\Views\" />
-    <Folder Include="Areas\OrderForHere\Controllers\" />
     <Folder Include="Areas\OrderForHere\Data\" />
     <Folder Include="Areas\OrderForHere\Models\" />
-    <Folder Include="Areas\OrderForHere\Views\" />
   </ItemGroup>
 
   <ItemGroup>
