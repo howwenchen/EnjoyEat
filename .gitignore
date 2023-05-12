@@ -9,7 +9,7 @@
 *.dll.config
 *.cache
 *.suo
-/.vs
+.vs/
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
@@ -81,3 +81,4 @@ EnjoyEat/.vs/EnjoyEat/FileContentIndex/be203aad-f72b-45f4-963d-b44d7190135a.vsid
 EnjoyEat/.vs/EnjoyEat/DesignTimeBuild/.dtbcache.v2
 EnjoyEat/.vs/ProjectEvaluation/enjoyeat.metadata.v6.1
 EnjoyEat/.vs/ProjectEvaluation/enjoyeat.projects.v6.1
+EnjoyEat/.vs/EnjoyEat/FileContentIndex/read.lock
